@@ -1,3 +1,5 @@
+# Menghitung pasangan yang memenuhi i + j <= n
+
 n = int(input("n: "))
 count = 0
 
