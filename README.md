@@ -25,3 +25,12 @@ Mempelajari penggunaan nested loop, pola, akumulasi, dan pencacahan menggunakan 
 
 ## Kesimpulan
 Nested loop dapat digunakan untuk membuat tabel perkalian. Akumulasi digunakan untuk menghitung jumlah hasil, sedangkan pencacahan digunakan untuk menghitung banyaknya hasil genap.
+
+### Pengujian Program Nomor 04
+
+Program menghitung banyak pasangan bilangan `(i, j)` yang memenuhi syarat `i + j <= n`.
+
+Hasil pengujian:
+- `n = 2` menghasilkan 1 pasangan.
+- `n = 3` menghasilkan 3 pasangan.
+- `n = 5` menghasilkan 10 pasangan.
